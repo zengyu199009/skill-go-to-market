@@ -41,16 +41,9 @@ git clone https://github.com/zengyu199009/skill-go-to-market.git
 # copy the folder into your skills directory, or reference SKILL.md directly
 ```
 
-## Pro version
+## More
 
-The GitHub repo is the **Lite version** — fully functional, MIT licensed. The **Pro version ($19 one-time)** adds:
-
-- **Complete bilingual listing kit** (EN/ZH) ready to paste into any platform
-- **Field-by-field examples** from real accepted listings
-- **Payout & KYB walkthrough** for cross-border sellers
-- **Priority updates & support**
-
-👉 **[Buy Pro — $19 one-time](https://pancake.waffo.ai/store/zengyu-ai-skills-9d6ik0c1/product/PROD_4wRBLThekLSwhfxcgh52kG?type=onetime&currency=USD)**
+More AI skills for one-person companies and startups: **[skills.alqedge.com](https://skills.alqedge.com)**
 
 ## License
 
